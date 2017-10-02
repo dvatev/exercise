@@ -1,4 +1,4 @@
 # exercise-repository
-Some changes here!
-Other stuff...
-Resolved!
+This project will contain nothing usefull!
+Repository made for exercises.
+Hi,again!
